@@ -1,0 +1,20 @@
+* {
+    box-sizing: content-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    height: 100vh;
+    
+    background: rebeccapurple;
+    
+    font-family: sans-serif;
+    color: #fff;
+}
+
+.numeric-clock {
+    font-size: 10rem;
+}
